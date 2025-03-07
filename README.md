@@ -17,13 +17,13 @@ Manda Braba é um sistema de comentários online que permite aos usuários criar
 
 **Equipe**
 
-* [Seu nome] - Desenvolvedor
+* Iury Almeida - Desenvolvedor
 
 **Linguagem**
 
 * Java
 
-** Framework**
+**Framework**
 
 * Spring boot
 
